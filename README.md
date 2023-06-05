@@ -7,7 +7,7 @@ _Сорокина Надежда, ЗБ-ПИ21-2, лабораторные раб
 > 
 > [__2, 3. МНОГОПОТОЧНЫЙ ЭХО-СЕРВЕР (Лабораторные работы №3 и №4)__](https://github.com/not-fate/Practicum/tree/main/multithreaded_echo_server)
 > 
-> [__4. ПРОТОКОЛЫ ШИФРОВАНИЯ.__]()
+> [__4. ПРОТОКОЛЫ ШИФРОВАНИЯ.__](https://github.com/not-fate/Practicum/tree/main/crypto_async_server)
 > 
 > [__5. НИЗКОУРОВНЕВАЯ РАБОТА С WEB.__](https://github.com/not-fate/Practicum/tree/main/web-server)
 > 
