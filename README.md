@@ -11,6 +11,6 @@ _Сорокина Надежда, ЗБ-ПИ21-2, лабораторные раб
 > 
 > [__5. НИЗКОУРОВНЕВАЯ РАБОТА С WEB.__](https://github.com/not-fate/Practicum/tree/main/web-server)
 > 
-> [__6. FTP-СЕРВЕР.__]()
+> [__6. FTP-СЕРВЕР.__](https://github.com/not-fate/Practicum/tree/main/ftp-server)
 > 
 > [__7. СОЗДАНИЕ МИКРОСЕРВИСА.__]()
